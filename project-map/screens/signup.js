@@ -29,6 +29,7 @@ const Styles = StyleSheet.create({
   HomeText: {
     fontSize: 30,
     textAlign: "center",
+    marginTop: 100 
   },
   NextBottom: {
     backgroundColor: "purple",
